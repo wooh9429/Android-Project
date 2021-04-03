@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">Let\'s find out\nyour love type!</string>
+    <string name="question">There were favorite flowers\nin the flower base.\nAs time goes, the flowers\nhave all withered.\nWhat are you going to do with that?</string>
+    <string name="select_1">1. Throw it away</string>
+    <string name="select_2">2. Water the flowers</string>
+    <string name="select_3">3. Cut it off with sissors</string>
+    <string name="select_4">4. Make them as dired flowers</string>
+</resources>
